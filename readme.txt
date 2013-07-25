@@ -26,8 +26,12 @@ git log
 10.git diff 
 to see the changes added in the files in the repo
 
-11.git diff --
+11.git diff --cached
 
 12.Shift + zz
 
 13. git log --oneline
+
+14. git commit -a -m "msg"
+
+25. git status -s
