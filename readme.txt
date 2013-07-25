@@ -7,3 +7,15 @@ git config --global user.email "name@email.com"
 
 4.git init "foldername" 
 you want to initialize or begin git-ing.
+
+5.git add filename
+
+or
+
+git add . (adds all files in current directory)
+
+6.git status
+
+7.git rm --cached filename (or . for total removal)
+
+8.git commit -m "message for commit"
