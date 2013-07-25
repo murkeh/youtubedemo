@@ -25,3 +25,9 @@ git log
 
 10.git diff 
 to see the changes added in the files in the repo
+
+11.git diff --
+
+12.Shift + zz
+
+13. git log --oneline
