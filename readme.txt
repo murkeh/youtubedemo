@@ -23,4 +23,5 @@ git log
 
 9.add files to staging area after modifications to be able to commit them (git add .)
 
-10.
+10.git diff 
+to see the changes added in the files in the repo
