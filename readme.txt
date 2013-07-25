@@ -15,7 +15,12 @@ or
 git add . (adds all files in current directory)
 
 6.git status
+git log
 
 7.git rm --cached filename (or . for total removal)
 
 8.git commit -m "message for commit"
+
+9.add files to staging area after modifications to be able to commit them (git add .)
+
+10.
