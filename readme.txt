@@ -35,3 +35,16 @@ to see the changes added in the files in the repo
 14. git commit -a -m "msg"
 
 25. git status -s
+
+
+--------------------------
+--------------------------
+
+creating SSH key
+
+git init
+git add .
+git commit -m
+git status git log
+git remote add origin "get it from github.com under the repo of the project you want to upload it and select the ssh and copy paste it here"
+git push origin master (master is the name of branch and pushing is uploading)
